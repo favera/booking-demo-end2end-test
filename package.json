@@ -1,0 +1,16 @@
+{
+  "name": "booking-demo-end2end-test",
+  "version": "1.0.0",
+  "description": "booking demo end2end test with puppeteer and jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "jest-puppeteer": "^4.3.0",
+    "puppeteer": "^2.0.0"
+  }
+}
